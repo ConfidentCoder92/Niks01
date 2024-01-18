@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-svg-vector.svg">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="Styles.css">
+	<script type="text/javascript" src="Script.js"></script>
+	<title>My Information</title>
+</head>
+<body>
+	<h1><i>I am Nikita.</i></h1>
+	<p>Computer Science Engineer</p>
+	
+	
+</body>
+</html>
+    
